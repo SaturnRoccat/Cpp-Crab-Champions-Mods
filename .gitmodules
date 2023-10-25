@@ -1,3 +1,6 @@
 [submodule "RE-UE4SS"]
 	path = RE-UE4SS
 	url = https://github.com/UE4SS-RE/RE-UE4SS.git
+[submodule "CrabChampionsUtils"]
+	path = CrabChampionsUtils
+	url = https://github.com/Duckos-Mods/CrabChampionsUtils
